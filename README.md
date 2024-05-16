@@ -1,2 +1,2 @@
-# 55_p_4
-JS 29 paskaita, 4 lab
+# 55_p_5
+JS 29 paskaita, 5 lab
